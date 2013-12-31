@@ -1,4 +1,4 @@
-sea-b4-ios
+sea-b5-ios
 ==========
 
-Seattle iOS Bootcamp September / October 2013
+Seattle iOS Bootcamp January / February 2014
